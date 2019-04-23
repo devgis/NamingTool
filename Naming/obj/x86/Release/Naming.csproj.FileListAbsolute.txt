@@ -1,0 +1,10 @@
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\bin\Release\Naming.exe
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\bin\Release\Naming.pdb
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\Devgis.Naming.Main.resources
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\Devgis.Naming.Properties.Resources.resources
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\Devgis.Naming.Words.resources
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\Naming.exe
+C:\Users\liyafei\documents\visual studio 2010\Projects\Naming\Naming\obj\x86\Release\Naming.pdb
